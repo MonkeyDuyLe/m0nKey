@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|c:\\users\\admin\\desktop\\visual\\m0nkey\\bt02\\bt02\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|solutionrelative:bt02\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|c:\\users\\admin\\desktop\\visual\\m0nkey\\bt02\\bt02\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|solutionrelative:bt02\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|c:\\users\\admin\\desktop\\visual\\m0nkey\\bt02\\bt02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|solutionrelative:bt02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|c:\\users\\admin\\desktop\\visual\\m0nkey\\bt02\\bt02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|solutionrelative:bt02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Program.cs",
+              "RelativeDocumentMoniker": "BT02\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Program.cs",
+              "RelativeToolTip": "BT02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:22:20.12Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "BT02\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "BT02\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:42:25.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "BT02\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "BT02\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:25:02.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BT02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BT02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:19:56.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

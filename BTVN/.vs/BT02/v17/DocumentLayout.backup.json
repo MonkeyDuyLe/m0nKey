@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BTVN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5665F168-D1F3-4BF3-8377-4F1177E2B9FF}|BT02\\BT02.csproj|c:\\users\\admin\\desktop\\visual\\m0nkey\\bt02\\bt02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5665F168-D1F3-4BF3-8377-4F1177E2B9FF}|BT02\\BT02.csproj|c:\\users\\admin\\desktop\\visual\\m0nkey\\btvn\\bt02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5665F168-D1F3-4BF3-8377-4F1177E2B9FF}|BT02\\BT02.csproj|solutionrelative:bt02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E944A7-2996-4B4C-A68A-DB48FA725650}|Solution Items{82E944A7-2996-4B4C-A68A-DB48FA725650}|C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BTVN\\.gitinore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82E944A7-2996-4B4C-A68A-DB48FA725650}|Solution Items{82E944A7-2996-4B4C-A68A-DB48FA725650}|solutionrelative:.gitinore||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,11 +26,24 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitinore",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BTVN\\.gitinore",
+              "RelativeDocumentMoniker": ".gitinore",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BTVN\\.gitinore",
+              "RelativeToolTip": ".gitinore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-28T06:37:12.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BTVN\\BT02\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BT02\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BTVN\\BT02\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BT02\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

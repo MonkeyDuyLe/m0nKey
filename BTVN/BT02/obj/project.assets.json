@@ -941,11 +941,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\BT02.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BTVN\\BT02\\BT02.csproj",
       "projectName": "BT02",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\BT02.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BTVN\\BT02\\BT02.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BTVN\\BT02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
