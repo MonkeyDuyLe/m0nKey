@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|c:\\users\\admin\\desktop\\visual\\m0nkey\\bt02\\bt02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|solutionrelative:bt02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|c:\\users\\admin\\desktop\\visual\\m0nkey\\bt02\\bt02\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|solutionrelative:bt02\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|c:\\users\\admin\\desktop\\visual\\m0nkey\\bt02\\bt02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|solutionrelative:bt02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|c:\\users\\admin\\desktop\\visual\\m0nkey\\bt02\\bt02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89A67AE2-9DFA-41C2-A5AF-4D68BBFE8DCE}|BT02\\BT02.csproj|solutionrelative:bt02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Program.cs",
               "RelativeDocumentMoniker": "BT02\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Program.cs",
               "RelativeToolTip": "BT02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T07:22:20.12Z",
               "IsPinned": true,
@@ -48,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Views\\TheLoai\\Index.cshtml",
               "RelativeDocumentMoniker": "BT02\\Views\\TheLoai\\Index.cshtml",
@@ -61,7 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TheLoaiController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Controllers\\TheLoaiController.cs",
               "RelativeDocumentMoniker": "BT02\\Controllers\\TheLoaiController.cs",
@@ -69,12 +69,11 @@
               "RelativeToolTip": "BT02\\Controllers\\TheLoaiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T07:25:02.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T07:25:02.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Visual\\m0nKey\\BT02\\BT02\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BT02\\Views\\Home\\Index.cshtml",
@@ -82,8 +81,27 @@
               "RelativeToolTip": "BT02\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T07:19:56.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T07:19:56.072Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             }
           ]
         }
