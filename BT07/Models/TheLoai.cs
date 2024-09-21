@@ -6,9 +6,16 @@ namespace BT07.Models
     {
         [Key]
         public int Id { get; set; }
-        [Required]
+        [Required(ErrorMessage ="Không đc để trống tên thể loại!")]
+        [Display(Name="Thể Loại")]
+  
         public string Name { get; set; }
+        [Required(ErrorMessage ="Không đúng định dạng ngày!")]
+        [Display(Name="Ngày tạo")]
+        public string Description { get; set; }
 
         public DateTime DateCreated { get; set; }= DateTime.Now;
     }
 }
+
+

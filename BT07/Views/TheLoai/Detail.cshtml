@@ -1,0 +1,19 @@
+﻿@model TheLoai
+<div class="container">
+	<h2>Chi tiết thể loại </h2>
+	<div>
+		<h4>@Model.Name</h4>
+		<hr />
+		<dl class="row">
+			<dt	class="col-sm-2">Tên thể loại</dt>
+			<dd class="col-sm-10">@Model.Name</dd>
+
+			<dt class="col-sm-2">Ngày tạo </dt>
+			<dd class="col-sm-10">@Model.DateCreated.ToString("dd/MM/yyyy")</dd>
+		</dl>
+	</div>
+	<div>
+		<button type="submit" class="btn btn-primary">Xem chi tiết</button>
+		<a asp-action="Index" class="btn btn-secondary">Quay lại trang </a>
+	</div>
+</div>

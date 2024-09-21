@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BT07")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74751362f8b1a04f794d6f36f6a748bbdeb97492")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61fcf0f5c96d20e4b218509b157ee55a7d2364ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("BT07")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BT07")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
