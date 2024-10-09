@@ -1,0 +1,41 @@
+﻿@using BTkiemtra03_03.Models
+
+@model Contract
+<div class="container">
+    <h3>Thêm Contract</h3>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="ContractId">Mã Hợp Đồng</label>
+            <input asp-for="ContractId" type="text" class="form-control" />
+            <span asp-validation-for="ContractId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ContractName">Tên Contract</label>
+            <input asp-for="ContractName" type="text" class="form-control" />
+            <span asp-validation-for="ContractName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="SigningDate">Ngày Kí kết</label>
+            <input asp-for="SigningDate" type="date" class="form-control" />
+            <span asp-validation-for="SigningDate" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CustomerId">Mã Khách Hàng</label>
+            <input asp-for="CustomerId" type="text" class="form-control" />
+            <span asp-validation-for="CustomerId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ContractValue">Giá trị hợp đồng</label>
+            <input asp-for="ContractValue" type="text" class="form-control" />
+            <span asp-validation-for="ContractValue" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Tạo mới</button>
+    </form>
+</div>
+@section scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

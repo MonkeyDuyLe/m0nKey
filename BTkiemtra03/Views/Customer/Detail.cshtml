@@ -1,0 +1,13 @@
+﻿@using BTkiemtra03_03.Models
+@model Contract
+<div class="container">
+	Id:<b> @Model.ContractId</b> <br />
+
+	Tên:<b>@Model.ContractName</b><br />
+
+	Ngày tạo:<b>@String.Format("{0:dd/MM/yyyy}", Model.SigningDate)</b>
+
+	Id khách hàng:<b>@Model.CustomerId</b><br/>
+	Giá trị hợp đồng:<b> @Model.ContractValue</b> <br />
+</div>
+
