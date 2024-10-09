@@ -1,0 +1,38 @@
+﻿<div class="container">
+	<form asp-action="Search" method="get">
+		<input type="text" name="searchString" placeholder=" Nhập Contract cần tìm....."
+			   value="@ViewBag.SearchString" />
+		<input type="submit" value="Tìm kiếm " />
+	</form>
+	<table class="table">
+		<thead>
+			<tr>
+
+				<th> Mã Hợp Đồng</th>
+				<th>
+					Tên Hợp Đồng
+				</th>
+				<th> Ngày Kí Kết </th>
+				<th>Khách Hàng </th>
+				<th>Giá Trị Hợp Đồng</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in ViewBag.Contract)
+			{
+				<tr>
+					<td width="30">@item.ContractId</td>
+					<td width="30%">@string.Format("{0:dd/MM/yyyy}", item.SigningDate)</td>
+					<td width="40%">
+						<a a asp-action="Edit" asp-route-id="@item.ContractId">Edit</a>
+						<a asp-action="Delete" asp-route-id="@item.ContractId">
+							Delete
+						</a>
+						<a asp-action="Detail" asp-route-id="@item.ContractId">Details</a>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+	<a asp-controller="Contract" asp-action="Create" class="btn btn-primary"> Thêm mới</a>
+</div>
