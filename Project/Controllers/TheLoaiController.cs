@@ -1,10 +1,12 @@
 ﻿using Project.Data;
 using Microsoft.AspNetCore.Mvc;
 using NuGet.Protocol;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Project.Models
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class TheLoaiController : Controller
     {
         private readonly ApplicationDbContext _db;
@@ -121,7 +123,8 @@ namespace Project.Models
 			}
             return View("Index");
 		
-			return View();
+			
 		}
+	
 	}
 }

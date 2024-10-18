@@ -11,7 +11,7 @@ public class SanPham
 	[Required]
 	public double price { get; set; }
 	public string? Description { get; set; }
-	public string ImageUrl { get; set; }
+	public string? ImageUrl { get; set; }
 	[Required]
 	public int TheLoaiId { get; set; }
 	[ForeignKey("TheLoaiId")]
